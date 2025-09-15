@@ -1,5 +1,4 @@
 # Perception Coding Challenge 
-https://github.com/li21rich/Computer-Vision-Trajectory-Challenge-Project.git
 Richard Li
 
 ## Methodology - trajector.py
