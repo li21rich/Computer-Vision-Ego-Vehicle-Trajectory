@@ -10,7 +10,6 @@ Richard Li
 
 ## Assumptions
 
-- Machine Learning/CV not required
 - World/ground frame (BEV) sets traffic light at origin
 - Camera coord system (X forward, Y right axis, Z upward)
 - Right-handed coord system for ground frame (X forward, Y left, Z upward)
