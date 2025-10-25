@@ -1,5 +1,4 @@
 # Perception Code 
-Richard Li
 
 ## Methodology - trajector.py
 
